@@ -1,0 +1,4 @@
+set title "H"; show title;
+set xlabel "x"; show xlabel;
+set ylabel "y"; show ylabel;
+plot 'data.txt' using 1:2 with points pointtype 7 pointsize 1 linetype rgb "red"

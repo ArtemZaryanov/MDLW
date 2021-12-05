@@ -44,7 +44,7 @@ struct Entity
     Vector3d v;
     Vector3d a;
 };
-
+//s
 //
 const std::string dataFileName = "data.txt";    
 void generateCubeUniformDistibutedPoins(
